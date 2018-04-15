@@ -19,7 +19,7 @@
   #nav-bar {
     position: fixed;
     width: 100%;
-    bottom: 60px;
+    bottom: 40px;
     overflow: hidden;
     z-index: 10000;
   }
@@ -27,7 +27,7 @@
   #nav-bar .content {
     height: 80px;
     line-height: 100px;
-    width: 1000px;
+    width: 500px;
     margin-left: auto;
     margin-right: auto;
     background-color: black;
@@ -39,6 +39,11 @@
     background: transparent !important;
     display: table-cell;
     vertical-align: middle;
+  }
+
+  .inner .menu{
+    border: 0;
+    border-bottom: 0 !important;
   }
 
   .menu .icon {
