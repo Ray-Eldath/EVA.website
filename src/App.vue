@@ -9,7 +9,6 @@
     name: 'App',
     mounted: function () {
       $youziku.load(".font-dms", "e065314a24474f9a80dcf5c2eea41e8f", "DFGMincho-SU");
-      $youziku.load(".font-fds", "d9c2a8d3d9844e0b83a2d6acf8442e31", "hdftesong");
       $youziku.draw();
     }
   }

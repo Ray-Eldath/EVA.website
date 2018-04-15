@@ -19,7 +19,7 @@
   #nav-bar {
     position: fixed;
     width: 100%;
-    bottom: 40px;
+    bottom: 20px;
     overflow: hidden;
     z-index: 10000;
   }
