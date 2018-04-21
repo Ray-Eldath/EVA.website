@@ -25,13 +25,12 @@
   }
 
   #nav-bar .content {
-    height: 80px;
-    line-height: 100px;
-    width: 500px;
+    height: 60px;
+    line-height: 60px;
+    width: 400px;
     margin-left: auto;
     margin-right: auto;
-    background-color: black;
-    border-radius: 40px;
+    background-color: transparent;
     display: table;
   }
 
@@ -53,7 +52,7 @@
   }
 
   .menu .icon img {
-    height: 40px;
+    height: 30px;
     width: auto !important;
   }
 
